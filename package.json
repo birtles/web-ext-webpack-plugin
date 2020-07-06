@@ -23,7 +23,7 @@
     "url": "https://github.com/hiikezoe/web-ext-webpack-plugin/issues"
   },
   "homepage": "https://github.com/hiikezoe/web-ext-webpack-plugin#readme",
-  "peerDependencies": {
-    "web-ext": "github:birtles/web-ext"
+  "dependencies": {
+    "web-ext": "4.3.0"
   }
 }
